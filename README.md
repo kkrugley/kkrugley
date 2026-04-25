@@ -11,5 +11,7 @@ I work at the intersection of software and hardware, building tools that help cr
 - ⌨️ **WriterDesk** – a pocket‑computer platform designed for writers and journalists.  
   https://github.com/kkrugley/writerdesk
 
-- 🔊 **OpenSoundDeck** - a cross-platform desktop application for playing sounds into a virtual microphone.
+- 🔊 **OpenSoundDeck** - a cross-platform desktop application for playing sounds into a virtual microphone.  
   https://github.com/kkrugley/OpenSoundDeck
+
+  
