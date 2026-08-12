@@ -5,9 +5,6 @@ I work at the intersection of software and hardware, building tools that help cr
 - 😺 **SafePaws** – an open‑source initiative that designs a range of items and accessories to help stray animals, and offers free plans, drawings, and documentation for making them.  
   https://github.com/kkrugley/safepaws
 
-- 🚴 **TrailX** – a collaborative app for planning of cycling expeditions, with real‑time route voting, shared maps and GPX export.  
-  https://github.com/kkrugley/trailx
-
 - ⌨️ **WriterDesk** – a pocket‑computer platform designed for writers and journalists.  
   https://github.com/kkrugley/writerdesk
 
